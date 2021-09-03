@@ -1,5 +1,5 @@
 {
-  "name": "@rbxts/roact-hooked",
+  "name": "@spectrius/roact-hooked",
   "version": "1.2.0",
   "description": "Roact hooks based on Kampfkarren's hooks & React Hooks",
   "main": "out/init.lua",
